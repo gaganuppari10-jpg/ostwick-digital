@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" aria-label="Ostwick logo" role="img">
+  <rect x="4" y="4" width="48" height="48" rx="14" fill="none" stroke="currentColor" stroke-width="3"/>
+  <path d="M18 17.5h20M18 28h13.5c4.2 0 6.5 2.2 6.5 5.2S35.7 38 31.5 38H18"
+        fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M28 17.5v20" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/>
+</svg>
